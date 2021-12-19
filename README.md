@@ -1,11 +1,12 @@
 <p align="center">
 <img src="./media/thumb.jpeg" width="300" height="280"/>
 </p>
+
 #### • Ammm pues bueno 
 #### • hola bienvenid@ a mi perfil
 #### • Actualmente no soy programador pero estoy aprendiendo
 
-##### -999
+##### bash
 ```bash
 reach: [
             {
