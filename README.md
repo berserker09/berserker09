@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./media/thumb.jpeg" width="140" height="300"/>
+<img src="./media/thumb.jpeg" width="300" height="280"/>
 </p>
 
 Ammm pues bueno, hola bienvenido\a a mi perfil
