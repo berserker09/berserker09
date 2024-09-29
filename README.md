@@ -19,8 +19,3 @@ I'm a passionate developer with a diverse skillset, always eager to learn and co
 **Always learning, always growing!**
 
 I'm constantly expanding my knowledge base and refining my skills. Stay tuned for future additions to this digital armory!  
-
-
-**Note:**
-
-* This is a code representation of the README.md file. You can copy and paste this into your GitHub profile.
